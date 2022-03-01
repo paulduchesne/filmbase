@@ -1,0 +1,68 @@
+[
+    {
+        "name": "title",
+        "type": "Datatype Property",
+        "domain": "Work",
+        "range": "String"
+    },
+    {
+        "name": "wikidata",
+        "type": "Datatype Property",
+        "domain": "Work",
+        "range": "String"
+    },
+    {
+        "name": "duration",
+        "type": "Datatype Property",
+        "domain": "Work",
+        "range": "String"
+    },
+    {
+        "name": "fps",
+        "type": "Datatype Property",
+        "domain": "Work",
+        "range": "String"
+    },
+    {
+        "name": "aspect ratio",
+        "type": "Datatype Property",
+        "domain": "Work",
+        "range": "String"
+    },
+    {
+        "name": "shot from",
+        "type": "Object Property",
+        "domain": "Shot",
+        "range": "Work"
+    },
+    {
+        "name": "shot length",
+        "type": "Datatype Property",
+        "domain": "Shot",
+        "range": "String"
+    },
+    {
+        "name": "hue",
+        "type": "Datatype Property",
+        "domain": "Shot",
+        "range": "String"
+    },
+    {
+        "name": "frame number",
+        "type": "Datatype Property",
+        "domain": "Frame",
+        "range": "String"
+    },
+    {
+        "name": "from shot",
+        "type": "Object Property",
+        "domain": "Frame",
+        "range": "Shot"
+    },
+    {
+        "name": "ocr text",
+        "type": "Datatype Property",
+        "domain": "Frame",
+        "range": "String"
+    }
+]

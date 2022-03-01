@@ -1,0 +1,86 @@
+[
+    {
+        "S": "Der Gang in die Nacht",
+        "P": "title",
+        "O": "Der Gang in die Nacht",
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Der Gang in die Nacht",
+        "P": "wikidata",
+        "O": "Q3793222",
+        "R": "https://www.wikidata.org/wiki/Q3793222"
+    },
+    {
+        "S": "Der Gang in die Nacht",
+        "P": "duration",
+        "O": "01:20:58",
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Der Gang in die Nacht",
+        "P": "fps",
+        "O": 20.0,
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Der Gang in die Nacht",
+        "P": "aspect ratio",
+        "O": 1.33,
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Shot 0001",
+        "P": "shot from",
+        "O": "Der Gang in die Nacht",
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Shot 0001",
+        "P": "shot length",
+        "O": 8642,
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Shot 0001",
+        "P": "hue",
+        "O": 13,
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Frame 0000027",
+        "P": "frame number",
+        "O": "0000027",
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Frame 0000027",
+        "P": "from shot",
+        "O": "Shot 0001",
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Frame 0000027",
+        "P": "ocr text",
+        "O": "Von DER GANG IN DIE NACHT, der siebten Regie- arbeit F.W. Murnaus, hat nur ein Originalnegativ ohne Titel im Reichsfilmarchiv überlebt, das über Gosfilmo- fond in Moskau und das Staatliche Filmarchiv der DDR ins Bundesarchiv gelangte. Dabei gingen die Rollen des dritten Akts verloren, die in Moskau noch um- kopiert worden waren. Nach Maßgabe von Mu",
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Frame 0000900",
+        "P": "frame number",
+        "O": "0000900",
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Frame 0000900",
+        "P": "from shot",
+        "O": "Shot 0001",
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    },
+    {
+        "S": "Frame 0000900",
+        "P": "ocr text",
+        "O": "Der Gang in die Nacht  Gine Tragödie in 5 Akten",
+        "R": "https://archive.org/details/silent-der-gang-in-die-nacht"
+    }
+]
