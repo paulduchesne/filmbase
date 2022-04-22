@@ -1,68 +1,155 @@
 [
     {
+        "name": "instance of",
+        "domain": [
+            "work",
+            "media file",
+            "shot",
+            "frame"
+        ],
+        "range": [
+            "class"
+        ],
+        "type": "wikibase-item"
+    },
+    {
         "name": "title",
-        "type": "Datatype Property",
-        "domain": "Work",
-        "range": "String"
+        "domain": [
+            "work"
+        ],
+        "range": [],
+        "type": "string"
     },
     {
         "name": "wikidata",
-        "type": "Datatype Property",
-        "domain": "Work",
-        "range": "String"
+        "domain": [
+            "work"
+        ],
+        "range": [],
+        "type": "string"
+    },
+    {
+        "name": "represented by",
+        "domain": [
+            "work"
+        ],
+        "range": [
+            "media file"
+        ],
+        "type": "wikibase-item"
+    },
+    {
+        "name": "representation of",
+        "domain": [
+            "media file"
+        ],
+        "range": [
+            "work"
+        ],
+        "type": "wikibase-item"
     },
     {
         "name": "duration",
-        "type": "Datatype Property",
-        "domain": "Work",
-        "range": "String"
+        "domain": [
+            "media file"
+        ],
+        "range": [],
+        "type": "string"
     },
     {
         "name": "fps",
-        "type": "Datatype Property",
-        "domain": "Work",
-        "range": "String"
+        "domain": [
+            "media file"
+        ],
+        "range": [],
+        "type": "string"
     },
     {
         "name": "aspect ratio",
-        "type": "Datatype Property",
-        "domain": "Work",
-        "range": "String"
+        "domain": [
+            "media file"
+        ],
+        "range": [],
+        "type": "string"
     },
     {
-        "name": "shot from",
-        "type": "Object Property",
-        "domain": "Shot",
-        "range": "Work"
+        "name": "has shot",
+        "domain": [
+            "media file"
+        ],
+        "range": [
+            "shot"
+        ],
+        "type": "wikibase-item"
+    },
+    {
+        "name": "shot of",
+        "domain": [
+            "shot"
+        ],
+        "range": [
+            "media file"
+        ],
+        "type": "wikibase-item"
+    },
+    {
+        "name": "shot number",
+        "domain": [
+            "shot"
+        ],
+        "range": [],
+        "type": "string"
     },
     {
         "name": "shot length",
-        "type": "Datatype Property",
-        "domain": "Shot",
-        "range": "String"
+        "domain": [
+            "shot"
+        ],
+        "range": [],
+        "type": "string"
     },
     {
         "name": "hue",
-        "type": "Datatype Property",
-        "domain": "Shot",
-        "range": "String"
+        "domain": [
+            "shot"
+        ],
+        "range": [],
+        "type": "string"
+    },
+    {
+        "name": "has frame",
+        "domain": [
+            "shot"
+        ],
+        "range": [
+            "frame"
+        ],
+        "type": "wikibase-item"
+    },
+    {
+        "name": "frame of",
+        "domain": [
+            "frame"
+        ],
+        "range": [
+            "shot"
+        ],
+        "type": "wikibase-item"
     },
     {
         "name": "frame number",
-        "type": "Datatype Property",
-        "domain": "Frame",
-        "range": "String"
-    },
-    {
-        "name": "from shot",
-        "type": "Object Property",
-        "domain": "Frame",
-        "range": "Shot"
+        "domain": [
+            "frame"
+        ],
+        "range": [],
+        "type": "string"
     },
     {
         "name": "ocr text",
-        "type": "Datatype Property",
-        "domain": "Frame",
-        "range": "String"
+        "domain": [
+            "frame"
+        ],
+        "range": [],
+        "type": "string"
     }
 ]

@@ -1,2 +1,2 @@
 # Filmbase
-Film analysis using wikibase and d3.js.
+Film analysis using Wikibase and D3.js
