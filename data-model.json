@@ -62,7 +62,7 @@
             "media file"
         ],
         "range": [],
-        "type": "string"
+        "type": "quantity"
     },
     {
         "name": "aspect ratio",
@@ -70,7 +70,7 @@
             "media file"
         ],
         "range": [],
-        "type": "string"
+        "type": "quantity"
     },
     {
         "name": "has shot",
@@ -98,7 +98,7 @@
             "shot"
         ],
         "range": [],
-        "type": "string"
+        "type": "quantity"
     },
     {
         "name": "shot length",
@@ -106,7 +106,7 @@
             "shot"
         ],
         "range": [],
-        "type": "string"
+        "type": "quantity"
     },
     {
         "name": "hue",
@@ -142,7 +142,7 @@
             "frame"
         ],
         "range": [],
-        "type": "string"
+        "type": "quantity"
     },
     {
         "name": "ocr text",
